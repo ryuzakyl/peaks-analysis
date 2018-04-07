@@ -8,7 +8,7 @@ An algorithm to detect peaks/valleys in noisy signals
 * 0.4.0
     * FEATURE: New C-API function `compute_peak_statistics`.
 * 0.3.0
-    * FEATURE: Compute peak area(area of type A1 and A2).
+    * FEATURE: Compute peak area (area of type A1 and A2).
 * 0.2.0
     * FEATURE: Computation of more peak info (peak max value retention time, peak max value, etc.).
 * 0.1.0
