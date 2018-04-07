@@ -30,3 +30,9 @@
 *.exe
 *.out
 *.app
+
+# ignore the JetBrains project folder
+.idea
+
+# ignore the Clion build folder
+cmake-build-debug
